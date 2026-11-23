@@ -260,7 +260,3 @@ Se deben mantener fuera del repositorio:
 - `broker-a.env`
 - `broker-b.env`
 - `monitoring.env`
-
-Los archivos de ejemplo pueden versionarse siempre que no contengan secretos reales.
-
-Antes de entregar, revisar el estado de Git, los archivos incluidos y el historial para evitar publicar credenciales.
