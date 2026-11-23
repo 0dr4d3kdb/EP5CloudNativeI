@@ -1,0 +1,21 @@
+# Credenciales y configuraciones locales
+*.env
+.env
+.env.*
+!*.env.example
+!*.env.sample
+
+# Maven y Java
+**/target/
+*.class
+
+# Logs
+*.log
+*.out
+
+# Archivos personales de Linux
+/.bash_history
+/.bash_logout
+/.bashrc
+/.profile
+/.m2/
